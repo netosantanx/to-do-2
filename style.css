@@ -1,0 +1,44 @@
+/* body {
+  background: white;
+}
+
+.selecionado {
+  background: gray;
+}
+
+.no-color {
+    background: white;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+header {
+  max-width: 500px;
+} */
+
+
+.mx {
+  margin-right: .25em;
+}
+
+.mb {
+  margin-bottom: .5em;
+}
+
+.mt {
+  margin-top: 1em;
+}
+
+.mw {
+  max-width: 800px;
+}
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.white-text {
+  color: white;
+}
